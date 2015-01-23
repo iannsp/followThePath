@@ -1,0 +1,16 @@
+{
+    "name": "iannsp/followthepath",
+    "description": "toy program to follow the path/line",
+    "authors": [
+        {
+            "name": "Ivo Nascimento",
+            "email": "iannsp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"": "src/"}
+    },
+    "require": {
+        "phpunit/phpunit": "~4.4"
+    }
+}
